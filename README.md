@@ -5,6 +5,6 @@ This method is rarely applied to real geophysical problems.
 
 This video shows the application of grid search to determine the location of an earthquake epicenter (synthetic).
 
-![Deskripsi Gambar](grid_search_episenter.mp4)
+![Deskripsi Gambar](GS_episenter_new.gif)
 
 
